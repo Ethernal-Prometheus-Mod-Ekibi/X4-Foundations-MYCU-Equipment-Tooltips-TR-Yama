@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language id="44">
+    <page id="20918" voice="no">
+        <t id="100">Silah Çıkışı</t>
+        <t id="101">Patlama</t>
+        <t id="102">Devamlı</t>
+        <t id="103">Isı Oluşum Hızı</t>
+        <t id="104">DPS (Saniye Başına Hasar)</t>
+        <t id="105">Saldırı İtişi</t>
+        <t id="106">Yatay</t>
+        <t id="107">Dikey</t>
+    </page>
+</language>

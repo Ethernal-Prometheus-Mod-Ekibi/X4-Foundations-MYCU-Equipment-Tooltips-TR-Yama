@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="EquipmentTooltips_TR"
+name="Mycu: Equipment tooltips - TR Patch"
+author="EPME - Eternal Prometheus Mod Ekibi"
+version="111"
+date="2022-02-23"
+save="false"
+enabled="1">
+<text language=""
+description="
+EPME - Eternal Prometheus Mod Ekibi tarafından Türkçeleştirilmiştir.&#13;&#10;
+Gemi yapılandırmasındaki ekipman alanlarına istatistikler içeren küçük ipuçları ekler.
+"/>
+<dependency id="EquipmentTooltips" optional="false" name="Mycu: Equipment tooltips"/>
+</content>
